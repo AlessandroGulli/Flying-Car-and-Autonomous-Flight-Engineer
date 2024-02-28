@@ -1,7 +1,7 @@
 <img src="events.gif" width="700" height="400" />
 
 
-# FCND - Backyard Flyer Project
+# Backyard Flyer Project
 In this project was set up a state machine using event-driven programming to autonomously flying a drone. 
 
 The python code is similar to how the drone would be controlled from a ground station computer or an onboard flight computer.
