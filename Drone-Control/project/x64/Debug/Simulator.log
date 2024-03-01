@@ -1,0 +1,21 @@
+﻿  0 File(s) copied
+  QuadControl.cpp
+C:\DroneControl\src\Math\Mat3x3F.h(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../src/QuadControl.cpp')
+  
+C:\DroneControl\src\Math\Mat3x3F.h(90,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../src/QuadControl.cpp')
+  
+C:\DroneControl\src\QuadControl.cpp(75,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\DroneControl\src\Math\Quaternion.h(346,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '../src/QuadControl.cpp')
+  C:\DroneControl\src\Math\Quaternion.h(346,17):
+  the template instantiation context (the oldest one first) is
+  	C:\DroneControl\src\VehicleDatatypes.h(11,21):
+  	see reference to class template instantiation 'SLR::Quaternion<float>' being compiled
+  	C:\DroneControl\src\Math\Quaternion.h(343,9):
+  	while compiling class template member function 'float SLR::Quaternion<float>::Yaw(void) const'
+  		C:\DroneControl\src\QuadControl.cpp(296,14):
+  		see the first reference to 'SLR::Quaternion<float>::Yaw' in 'QuadControl::RunControl'
+  
+  Simulator.vcxproj -> C:\DroneControl\project\x64\Debug\Simulator.exe
