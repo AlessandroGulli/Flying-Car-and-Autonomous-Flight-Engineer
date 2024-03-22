@@ -1,4 +1,4 @@
-# Motion-Planning
+# Motion Planning
 
 ![1](1.gif) ![2](2.gif)   
 
@@ -27,9 +27,9 @@ This utility module provides the necessary functions for creating a grid represe
 
 ### Key Features
 - Grid creation from obstacle data, considering drone altitude and safety distance.
-- Implementation of the A* search algorithm for pathfinding in the grid.
-- Utilization of Bresenham's algorithm for line drawing, facilitating path optimization.
-- Support for Voronoi graphs and KDTree for efficient nearest-neighbor searches.
+- Implementation of the **A*** search algorithm for pathfinding in the grid.
+- Utilization of **Bresenham's algorithm** for line drawing, facilitating path optimization.
+- Support for Voronoi graphs and **KDTree** for efficient nearest-neighbor searches.
 
 ### Dependencies
 - `numpy` and `networkx` for mathematical operations and graph management.
