@@ -1,6 +1,6 @@
 # Estimation Project 
 
-In this project, the estimation portion of the controller used in the CPP simulator has been implemented, in addition the simulated project will use thes control LINK!!! part, previously implemented.
+In this project, the estimation portion of the controller used in the CPP simulator has been implemented, in addition the simulated project will use this [control part | https://github.com/AlessandroGulli/Flying-Car-and-Autonomous-Flight-Engineer/tree/main/Drone-Control], previously implemented.
 
 ## Setup 
 
